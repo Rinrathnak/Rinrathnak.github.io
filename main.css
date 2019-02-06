@@ -1,3 +1,6 @@
+*{box-sizing: border-box;padding: 0px;margin:0px;font-family: Futura,Trebuchet MS,Arial,sans-serif;}
+
+
 
 
 body {margin:0;}
@@ -119,7 +122,7 @@ padding: 20px 20px;
 	font-family: Futura,Trebuchet MS,Arial,sans-serif;
 }
 
-
+@media (min-width:991px) and (max-width:1300px)
 .navbar {
   overflow: hidden;
   background-color: #1e4561;
